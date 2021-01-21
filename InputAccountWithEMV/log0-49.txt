@@ -1,0 +1,153 @@
+--------- beginning of crash
+--------- beginning of system
+--------- beginning of main
+D/CocaCola( 9753): 0
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 1
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 2
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 3
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 4
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 5
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 6
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 7
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 8
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 9
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 10
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 11
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 12
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 13
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 14
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 15
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 16
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 17
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 18
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 19
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 20
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 21
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 22
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 23
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 24
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 25
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 26
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 27
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 28
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 29
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 30
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 31
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 32
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 33
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 34
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 35
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 36
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 37
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 38
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 39
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 40
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 41
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 42
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 43
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 44
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 45
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 46
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 47
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 48
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK
+D/CocaCola( 9753): 49
+D/CocaCola( 9753): Result Code: 000000
+D/CocaCola( 9753): Result Text: OK

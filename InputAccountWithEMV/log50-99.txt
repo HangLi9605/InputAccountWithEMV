@@ -1,0 +1,153 @@
+--------- beginning of crash
+--------- beginning of system
+--------- beginning of main
+D/CocaCola(10727): 50
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 51
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 52
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 53
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 54
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 55
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 56
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 57
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 58
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 59
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 60
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 61
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 62
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 63
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 64
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 65
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 66
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 67
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 68
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 69
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 70
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 71
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 72
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 73
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 74
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 75
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 76
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 77
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 78
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 79
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 80
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 81
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 82
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 83
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 84
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 85
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 86
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 87
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 88
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 89
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 90
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 91
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 92
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 93
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 94
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 95
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 96
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 97
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 98
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
+D/CocaCola(10727): 99
+D/CocaCola(10727): Result Code: 000000
+D/CocaCola(10727): Result Text: OK
